@@ -1,0 +1,10 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+}
+
+nav a {
+  font-size: 25px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
